@@ -1,7 +1,10 @@
 site_name: Nasena 21
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: 'index.md'
   - 'Guides':
+    - 'Pendahuluan': 'pendahuluan.md'
     - 'Main Guide': 'main_guide.md'
     - 'Kanji': 'kanji.md'  
     - 'Speaking': 'speaking.md'

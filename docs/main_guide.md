@@ -1,6 +1,5 @@
 # Selamat datang 
 
-
 ## Belajar Kana
 ### Hiragana
 ### Katakana
