@@ -1,30 +1,79 @@
 site_name: Nasena 21
+nav:
+  - Home: 'index.md'
+  - 'Guides':
+    - 'Main Guide': 'main_guide.md'
+    - 'Anki': 'anki.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
+  - 'Yomitan':
+    - 'Kanji': 'kanji.md'
+
 theme:
+  language: id
+
+  font:
+    text: Noto Sans Japanese
+    code: Noto Serif Japanese
+
   palette:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: cyan 
+      primary: light blue
+      accent: blue 
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
-      accent: cyan 
+      primary: blue
+      accent: blue 
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to light mode
   features:
+    - tabs
+    - instant
+    - navigation.footer
     - navigation.instant
     - navigation.instant.progress
+    - navigation.instant.prefetch
     - navigation.sections
     - navigation.expand
     - search.suggest
     - search.highlighting
     - search.share
+    - meta
+    - admonition
+    - attr_list
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.keys
+    - pymdownx.superfences
+
   name: material
+
+  logo: kobo.jpg
+
+  favicon: kobo.jpg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx
+    - icon: fontawesome/brands/x-twitter
+      link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx
+    - icon: fontawesome/brands/facebook
+      link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx
+    - icon: fontawesome/brands/instagram
+      link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx
+    - icon: fontawesome/brands/youtube
+      link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx      
+copyright: Copyright &copy; 2024 NaSena 21
