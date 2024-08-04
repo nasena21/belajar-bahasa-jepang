@@ -1,0 +1,1 @@
+disini berisi cara mengatur aplikasi anki

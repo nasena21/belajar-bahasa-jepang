@@ -1,0 +1,1 @@
+Disini berisi tentang cara belajar kanji
