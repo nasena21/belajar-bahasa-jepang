@@ -1,10 +1,15 @@
 # Selamat datang 
 
 
-1. Belajar Hiragana
-2. Belajar Katakana 
-3. Belajar Kanji + Kosa Kata
-4. Grammar
-5. Immersion 
-6. Sentence Mining
-7. Ulangi 
+## Belajar Kana
+### Hiragana
+### Katakana
+## Setup Anki dan Yomitan
+## Belajar Kanji
+## Belajar Kosa Kata
+## Grammar
+## Immersion 
+## Sentence Mining
+## Output
+### Writing
+### Speaking 

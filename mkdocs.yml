@@ -3,11 +3,21 @@ nav:
   - Home: 'index.md'
   - 'Guides':
     - 'Main Guide': 'main_guide.md'
+    - 'Kanji': 'kanji.md'  
+    - 'Speaking': 'speaking.md'
+    - 'Pitch Accent': 'pitch_accent.md'
+  - 'Anki':  
     - 'Anki': 'anki.md'
+  - 'Yomitan':
+    - 'Yomitan': 'yomitan.md'
+  - 'Immersion':
+    - 'Anime': 'anime.md'
+    - 'Light Novel': 'light_novel.md'
+    - 'Visual Novel': 'visual_novel.md'
+
   - 'Resources':
     - 'Resources': 'resources.md'
-  - 'Yomitan':
-    - 'Kanji': 'kanji.md'
+
 
 theme:
   language: id
