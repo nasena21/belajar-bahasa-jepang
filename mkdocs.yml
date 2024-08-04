@@ -1,3 +1,6 @@
 site_name: Nasena 21
 theme:
+  pallete:
+    primary: light blue
+    scheme: slate
   name: material
