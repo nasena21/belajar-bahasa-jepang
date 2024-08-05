@@ -23,6 +23,8 @@ nav:
 
 
 theme:
+  name: material
+
   language: id
 
   font:
@@ -71,8 +73,6 @@ theme:
     - pymdownx.keys
     - pymdownx.superfences
 
-  name: material
-
   logo: kobo.jpg
 
   favicon: kobo.jpg
@@ -90,3 +90,13 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx      
 copyright: Copyright &copy; 2024 NaSena 21
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences

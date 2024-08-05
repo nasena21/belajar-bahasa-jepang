@@ -6,29 +6,29 @@ Aku belajar bahasa Jepang secara otodidak. Meskipun aku belajar secara otodidak,
 
 Tingkat terendah orang yang belajar bahasa Jepang adalah ketika orang jepang mengatakan 
 
-
-<p>
-    <ruby class="ruby">
-        日本語<rp>(</rp><rt class="rt">にほんご</rt><rp>)</rp>
-    </ruby>
-    <ruby class="ruby">
-        上手<rp>(</rp><rt class="rt">じょうず</rt><rp>)</rp>
-    </ruby>
-    ですね
-</p>
+!!! failure
+    <p>
+        <ruby class="ruby">
+            日本語<rp>(</rp><rt class="rt">にほんご</rt><rp>)</rp>
+        </ruby>
+        <ruby class="ruby">
+            上手<rp>(</rp><rt class="rt">じょうず</rt><rp>)</rp>
+        </ruby>
+        <ruby class="ruby">ですね</ruby>
+    </p>
     
 `Nihongo Jouzu desu ne` 
 
 'Kamu pintar bahasa Jepang ya '
 
 Sementara tingkat tertinggi orang yang belajar bahasa Jepang adalah ketika orang jepang mengatakan
-
-<p>
-    <ruby class="ruby">
-        日本人<rp>(</rp><rt class="rt">にほんじん</rt><rp>)</rp>
-    </ruby>
-    ですか？
-</p>
+!!! success
+    <p>
+        <ruby class="ruby">
+            日本人<rp>(</rp><rt class="rt">にほんじん</rt><rp>)</rp>
+        </ruby>
+    <ruby class="ruby">ですか？</ruby>
+    </p>
 
 `Nihonjin desu ka?`
 
@@ -36,7 +36,8 @@ Sementara tingkat tertinggi orang yang belajar bahasa Jepang adalah ketika orang
 
 Sebelum itu aku mau mengutip sebuah pepatah
 
-`Banyak Jalan Menuju Roma`
+!!! Quote
+    Banyak Jalan Menuju Roma
 
 Hanya sekedar disclaimer, Metode untuk belajar bahasa Jepang itu ada banyak sekali, dan metode yang aku bagikan di website ini hanyalah satu dari sebagian banyak metode yang bertebaran disana. Aku mungkin akan mengatakan kalau ini adalah metode yang terbaik untukku, dan akan mengatakan sesuatu yang bias, tetapi bukan berarti metode lainnya buruk atau apapun itu.
 
@@ -49,7 +50,8 @@ Jadi langsung saja, mari kita mulai.
 ## 2. Halangan
 Banyak orang belajar gagal dalam belajar bahasa Jepang ataupun bahasa Jepang mereka tetap berada di tingkat yang rendah sebenarnya hanya karena satu alasan. 
 
-`Metode yang mereka gunakan tidak mampu mewujudkan tujuan mereka`
+!!! Quote
+    Metode yang mereka gunakan tidak mampu membawa mereka ke tujuan mereka
 
 Hal ini sebenarnya bukan salah metodenya, tetapi salah orang itu sendiri karena mereka menggunakan metode belajar yang tidak sesuai dengan tujuan mereka, atau bahkan lebih parahnya lagi mereka tidak tahu tujuan mereka apa dalam belajar bahasa Jepang. 
 

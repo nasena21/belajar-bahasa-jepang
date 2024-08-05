@@ -5,29 +5,9 @@
     font-size: 0.55em; /* Adjust furigana size here */
 }
 
-.pitch-accent {
-    display: inline-block;
-    position: relative;
-  }
-  
-  .pitch-high::after,
-  .pitch-low::after {
-    content: "";
-    position: absolute;
-    width: 10px;
-    height: 10px;
-    background-color: white;
-    border-radius: 50%;
-  }
-  
-  .pitch-high::after {
-    top: -15px; /* Adjust as needed */
-    left: 50%;
-    transform: translateX(-50%);
-  }
-  
-  .pitch-low::after {
-    top: 25px; /* Adjust as needed */
-    left: 50%;
-    transform: translateX(-50%);
-  }
+.custom-text-style {
+  color: #2094f3; /* Text color */
+  background-color: #272a2f; /* Background color */
+  padding: 5px; /* Optional: adds space around the text */
+  border-radius: 3px; /* Optional: rounds the corners of the background */
+}
