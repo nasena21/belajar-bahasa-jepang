@@ -1,4 +1,44 @@
+## Learning Japanese
+### Kana
+### Kanji
+### Vocabulary
+### Grammar
 
+## Media
+
+## Desktop Applications
+* Anki
+* MPV
+* Textractor
+
+## Mobile Applications
+* Ankidroid
+* Jidoujisho
+* Immersion Reader
+
+## Browser Extension
+#### Pop Up Dictionary
+* Yomitan
+* Migaku
+* VocabSieve
+* Kimchi Reader
+* Language Reactor
+### Media Player
+* ASB Player
+* TTU Reader
+### Other
+* Clipboard Inserter
+* exSTATic
+
+## Sentence Search
+
+## Mining Template Card
+
+## Online Dictionary
+* Jisho
+
+
+## Pitch Accent
 
 <a href="https://fonts.google.com/">Google Fonts</a>
 

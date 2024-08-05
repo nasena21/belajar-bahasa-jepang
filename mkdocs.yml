@@ -8,18 +8,21 @@ nav:
     - 'Main Guide': 'main_guide.md'
     - 'Kanji': 'kanji.md'  
     - 'Speaking': 'speaking.md'
-    - 'Pitch Accent': 'pitch_accent.md'
-  - 'Anki':  
+  - 'Mining':  
     - 'Anki': 'anki.md'
-  - 'Yomitan':
     - 'Yomitan': 'yomitan.md'
+  - 'Recommendations':
+    - 'Recommendations': 'recommendations.md'
   - 'Immersion':
     - 'Anime': 'anime.md'
     - 'Light Novel': 'light_novel.md'
     - 'Visual Novel': 'visual_novel.md'
-
   - 'Resources':
     - 'Resources': 'resources.md'
+  - 'Grammar':
+    - 'Grammar': 'grammar.md' 
+  - 'Pitch Accent':
+    - 'Pitch Accent': 'pitch_accent.md'
 
 
 theme:
@@ -60,6 +63,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.tabs
+    - navigation.top
     - search.suggest
     - search.highlighting
     - search.share
@@ -101,3 +105,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - javascripts/extra.js
