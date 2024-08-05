@@ -35,10 +35,15 @@ flowchart TB
 
 
 ## Belajar Kana
+
 ### Hiragana
+
 ### Katakana
+
 ## Setup Anki dan Yomitan
+
 ## Belajar Kanji
+
 ## Belajar Kosa Kata
 ## Grammar
 ## Immersion 
