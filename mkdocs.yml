@@ -20,10 +20,13 @@ nav:
   - 'Resources':
     - 'Resources': 'resources.md'
   - 'Grammar':
-    - 'Grammar': 'grammar.md' 
+    - 'Grammar': 'grammar/grammar.md' 
   - 'Pitch Accent':
-    - 'Pitch Accent': 'pitch_accent.md'
-
+    - 'What is Pitch Accent': 'pitch/pitch_accent.md'
+    - 'Basic Pitch Accnet': 'pitch/pitch_basic.md'
+    - 'Pitch Accent For Adjectives': 'pitch/pitch_adjective.md'
+    - 'Pitch Accent For Verbs': 'pitch/pitch_verbs.md'
+    - 'Pitch Accnt For Nouns': 'pitch/pitch_nouns.md'
 
 theme:
   name: material
@@ -60,10 +63,12 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.prefetch
-    - navigation.sections
+    # - navigation.sections
     - navigation.expand
+    - navigation.tracking
     - navigation.tabs
     - navigation.top
+    - navigation.indexes
     - search.suggest
     - search.highlighting
     - search.share
