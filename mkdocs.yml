@@ -59,6 +59,7 @@ theme:
     - navigation.instant.prefetch
     - navigation.sections
     - navigation.expand
+    - navigation.tabs
     - search.suggest
     - search.highlighting
     - search.share
