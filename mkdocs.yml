@@ -23,10 +23,11 @@ nav:
     - 'Grammar': 'grammar/grammar.md' 
   - 'Pitch Accent':
     - 'What is Pitch Accent': 'pitch/pitch_accent.md'
-    - 'Basic Pitch Accnet': 'pitch/pitch_basic.md'
+    - 'Basic Pitch Accent': 'pitch/pitch_basic.md'
     - 'Pitch Accent For Adjectives': 'pitch/pitch_adjective.md'
     - 'Pitch Accent For Verbs': 'pitch/pitch_verbs.md'
-    - 'Pitch Accnt For Nouns': 'pitch/pitch_nouns.md'
+    - 'Pitch Accnet For Nouns': 'pitch/pitch_nouns.md'
+    - 'Pitch Accent For Suffix': 'pitch/pitch_suffix.md'
 
 theme:
   name: material
