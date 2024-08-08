@@ -2,18 +2,23 @@
 
 [**Japanese conjugation made easy! The super-simple key to all conjugations.**](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
 
-Today we are going to talk about Japanese conjugation.
+Hari ini kita akan membicarakan tentang Konjugasi bahasa Jepang.
 
-Which particular conjugation?, you may ask. Well, all of them. Except for the た and て form, which we will discuss in a different video *(Lesson 81)*.
+Konjugasi yang mana? Semuanya. Kecuali untuk た dan て form, yang akan kita bahas di video lainnya. *(Lesson 81)*.
 
-Why are we dealing with them all at once? Because we can. Because Japanese conjugation all works the same way. It's very simple, very logical and very consistent, and very very easy to understand.
+Kenapa kita harus mempelajari semuanya sekaligus? Karena kita bisa. Karena semua Konjugasi bahasa Jepang bekerja dengan cara yang sama. Mereka simple, sangat logis, dan konsisten, dan sangat-sangat mudah dipahami.
 
-However, when we look in the textbook, we get the impression of lots of different rules and forms that you have to learn for each particular conjugation. Why is that? Why do the textbooks make it seem so complicated when it's actually so very simple?
+Tapi, ketika kita melihat di buku pelajaran Bahasa Jepang, kita sering menduga kalau mereka punya banyak aturan dan bentuk-bentuk yang banyak dan kita harus memepalari satu-persatu untuk setiap konjugasinya. 
 
-Two reasons. The first is that they insist on this **European concept** of conjugation. Actually, what we are doing is not conjugation at all.
+Kenapa sih?
+
+Kenapa buku pelajaran Bahasa Jepang membuatnya terlihat sangat rumit padahal sebenarnya sangat sederhana?
+
+Ada dua alasan. Yang pertama mereka bersikeras pada **Konsep Eropa** tentang konjugasi. Sebenarnya yang mereka lakukan bukanlah konjugasi sama sekali
+
 
 ::: info
-*If you truly love reading, there's a VERY long, [**interesting discussion**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) about this under Lesson 13, so it depends on you how you refer to it, calling it conjugation is okay, especially when it is called as such mostly so at least familiarise yourself with it.*
+*Kalau kamu suka membaca, ada [**diskusi menarik**] yang sangat panjang (https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) tentang ini di pelajaran 13, jadi ini tergantung bagaimana pandanganmu tentang hal itu, kalian mau menyebutnya konjugasi juga tidak masalah, terutama ketika kebanyakan orang menamainya seperti itu, jadi setidaknya buat diri kalian familiar dengan konsep itu.
 :::
 
 ::: details Just one of my rambling terminology notes and some other ramblings… (click on the arrow to expand)
@@ -47,31 +52,31 @@ This is what Dolly says in her book <code>Unlocking Japanese</code> about Conjug
 ![](media/image408.png)
 :::
 
-**What we are doing all the time is attaching a simple helper verb – or helper adjective or helper noun – to the stems of the verb.**
+**Apa yang kita lakukan selama ini adalah menempelkan kata kerja bantu sederhana (helper verb) – atau kata sifat bantu (helper adjective) atau kata benda bantu (helper noun) – kepada akar kata kerja.**
 
-And once we see how that works, it becomes very, very simple and easy to understand.
+dan ketika kita melihat bagaimana mereka bekerja, konjugasi akan jadi hal yang sangat sederhana dan mudah untuk dipahami.
 
-The other problem is that they spend a lot of time explaining the changes that take place in terms of the Roman sound system – the alphabet. But in fact that causes a lot of confusion and difficulty.
+Masalah lainnya adalah mereka menghabiskan banyak waktu untuk menjelaskan konjugasi menggunakan sistem suara alfabet romawi. Padahal faktanya hal itu menyebabkan banyak kebingungan dan kesulitan.
 
-**Once we see it in the terms it actually exists in, that is to say, the \*Japanese\* sound system, it all becomes very logical.**
+**Ketika kita melihatnya dalam istilah yang benar-benar ada, dengan kata lain sistem suara \*Japanese\*, semuanya menjadi sangat logis**
 
-I would say it is a 100% consistent, logical and simple – except there is one exception in the whole system, and there are two irregular verbs, so perhaps we had better say 99.9% logical, consistent and easy to understand.
+Aku berani bilang kalau konjugasi 100% konsisten, logis dan sederhana - kecuali ada satu pengecualian di keseluruhan sistem ini, dan ada dua kata kerja tidak beraturan (irregular verbs), jadi mungkin lebih baik kalau kita menyebutnya 99.9% logis, konsisten, dan mudah dipahami.
 
-All right. So, let's give you the master chart, which will show you how all of this works.
+Baiklah. Aku akan menunjukkan semuanya pada kalian bagaimana Konjugasi bekerja.
 
 チャートをください!
 
-So, here is the familiar Japanese kana chart, with all the sounds of Japanese.
+Baik, disini ada tabel hiragana yang biasa kalian lihat.
 
 ![](media/image321.png)
 
-I've turned it on its side, for reasons which will become apparent shortly. All Japanese verbs end with one of the kana in the middle row – it looks like a column because I've turned it on its side. That is the う-row – う, く, す, つ, ぬ etc.
+Semua kata kerja di bahasa Jepang berakhir dengan kana yang ada di barisan yang ada di tengah. Itu adalah barisan ～う, – う, く, す, つ, ぬ dan seterusnya.
 
-However, there is no verb ending in ゆ, so we can get rid of these two columns and simplify the chart.
+Tapi, tiadak ada kata kerja yang berakhiran dengan ゆ dan を, jadi kita bisa menghilangkan dua kolom dan menyederhanakan tabelnya. 
 
 ![](media/image263.png)
 
-Actually, there is only one verb that ends in ぬ – that's しぬ, to die – so we could get rid of that too and make it look even simpler, but I'm keeping it in for completeness.
+Sebenarnya, hanya ada satu kata kerja yang berakhiran dengan ぬ - dan itu adalah しぬ (mati) - jadi kita bisa menghilangkannya juga dan membuat tabelnya lebih sederhana, tapi aku akan tetap membiarkannya untuk melengkapi tabelnya.
 
 So, **every verb ends with one of the kana in the red box.** Let's have an example of each of the possible endings:  
 かう, buy; きく, hear; はなす, speak; もつ, hold; しぬ, die; とぶ, fly; のむ, drink; とる, take.

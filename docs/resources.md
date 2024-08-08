@@ -3,7 +3,8 @@
 ### Kanji
 ### Vocabulary
 ### Grammar
-
+## Dictionary
+https://jisho.hlorenzi.com/
 ## Media
 
 ## Desktop Applications
@@ -16,16 +17,17 @@
 * Jidoujisho
 * Immersion Reader
 
-## Browser Extension
 #### Pop Up Dictionary
 * Yomitan
 * Migaku
 * VocabSieve
 * Kimchi Reader
 * Language Reactor
+
 ### Media Player
 * ASB Player
 * TTU Reader
+
 ### Other
 * Clipboard Inserter
 * exSTATic
