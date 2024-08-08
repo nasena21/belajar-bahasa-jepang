@@ -10,17 +10,18 @@ For my part, [I (Kellen)](https://bento.me/kln) converted script to Markdown, ch
 2. All text in "quotes" became `highlighted` in color
 3. Changed note type from *italic text* to speсial containers
 
-::: info
-Example of new note
-:::
+!!! info
+    Example of new note
 
-::: tip
-Rarely, there are also containers like this
-:::
 
-::: details And something like his (Click)
-Badoom
-:::
+!!! tip
+    Rarely, there are also containers like this
+
+
+??? note "details And something like his (Click)"
+    Badoom
+    Tess tess
+
 
 4. I have added a very rough and imprecise grouping of lessons. This was only done to allow the list to be collapsed.
 5. WIP merge line-by-line text into paragraph text

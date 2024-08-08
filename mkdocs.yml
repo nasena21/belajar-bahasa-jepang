@@ -21,9 +21,10 @@ nav:
     - 'Resources': 'resources.md'
   - 'Grammar':
     - 'Grammar': 'grammar/grammar.md'
-    - 'Grammar': 'cure-dolly\index.md'
-    - 'Grammar': 'cure-dolly\about.md'
-    - 'Grammar': 'cure-dolly\original.md'
+    - 'Credit': 'cure-dolly\credit.md'
+    - 'Index': 'cure-dolly\index.md'
+    - 'About': 'cure-dolly\about.md'
+    - 'Original': 'cure-dolly\original.md'
     - 'Basic Sentence Structure and Core Grammar': 
       - '1. The Basic Types of Sentences': 'cure-dolly/1-the-basic-types-of-sentences.md'
       - '2. The Invisible Carriage and The を Particle': 'cure-dolly/2-the-invisible-carriage-and-the-を-particle.md'
@@ -212,6 +213,7 @@ copyright: Copyright &copy; 2024 NaSena 21
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span

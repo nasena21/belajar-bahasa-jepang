@@ -1,8 +1,10 @@
-# **1. The Basic Types of Sentences**
+# **1. Jenis-jenis Kalimat Dasar**
 
 [**Lesson 1: Japanese made easy! What schools never teach. The core Japanese sentence -organic Japanese**](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly)
 
-The most basic thing about Japanese is the Japanese core sentence. Every Japanese sentence fundamentally has the same core. What does it look like? It looks like this.
+Hal paling mendasar tentang bahasa Jepang adalah inti kalimat bahasa Jepang. Pada dasarnya setiap kalimat dalam bahasa Jepang memiliki inti yang sama. Seperti apa? Seperti ini.
+
+Kita akan membayangkannya seperti kereta. Setiap kalimat dalam bahasa Jepang punya dua elemen ini: **Gerbong utama, A** dan **Lokomotif / Mesin, B**. **Lokomotif adalah elemen yang membuat sebuah kalimat bergerak, yang membuat kalimat berfungsi.** 
 
 We're going to picture it as a train. Every Japanese sentence has these two elements: **the main carriage, A** and **the engine, B**. **The engine is what makes the sentence move, what makes it work.** **The carriage has to be there because without the carriage there's nothing for the engine to move**. Those two things are the core of every Japanese sentence.
 

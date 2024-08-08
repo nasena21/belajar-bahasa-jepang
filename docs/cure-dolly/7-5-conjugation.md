@@ -17,40 +17,40 @@ Kenapa buku pelajaran Bahasa Jepang membuatnya terlihat sangat rumit padahal seb
 Ada dua alasan. Yang pertama mereka bersikeras pada **Konsep Eropa** tentang konjugasi. Sebenarnya yang mereka lakukan bukanlah konjugasi sama sekali
 
 
-::: info
-*Kalau kamu suka membaca, ada [**diskusi menarik**] yang sangat panjang (https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) tentang ini di pelajaran 13, jadi ini tergantung bagaimana pandanganmu tentang hal itu, kalian mau menyebutnya konjugasi juga tidak masalah, terutama ketika kebanyakan orang menamainya seperti itu, jadi setidaknya buat diri kalian familiar dengan konsep itu.
-:::
+!!! info
+    *Kalau kamu suka membaca, ada [**diskusi menarik**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) yang sangat panjang  tentang ini di pelajaran 13, jadi ini tergantung bagaimana pandanganmu tentang hal itu, kalian mau menyebutnya konjugasi juga tidak masalah, terutama ketika kebanyakan orang menamainya seperti itu, jadi setidaknya buat diri kalian familiar dengan konsep itu.
 
-::: details Just one of my rambling terminology notes and some other ramblings… (click on the arrow to expand)
-Linguistically it could be argued that there indeed is something like conjugation in Japanese, but it seems to be quite unlike European languages, which is likely why Dolly avoids it, so as not to make us interpret it like that and be confused. As to why most sources call it conjugation.
 
-Again, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, just like Adjectival Nouns are basically nouns, BUT not proper nouns (though that is just 1 model out of many).  
-This is to just show that there are multiple ways of looking at things and it is not strictly black n' white, it is a model, and since you cannot explain everything at once, you simplify some things.
+??? Note "details Just one of my rambling terminology notes and some other ramblings… (click on the arrow to expand)"
+    Linguistically it could be argued that there indeed is something like conjugation in Japanese, but it seems to be quite unlike European languages, which is likely why Dolly avoids it, so as not to make us interpret it like that and be confused. As to why most sources call it conjugation.
 
----
+    Again, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, just like Adjectival Nouns are basically nouns, BUT not proper nouns (though that is just 1 model out of many).  
+    This is to just show that there are multiple ways of looking at things and it is not strictly black n' white, it is a model, and since you cannot explain everything at once, you simplify some things.
 
-Though, keep in mind that Dolly sometimes does get a bit too negative towards textbooks (while some are valid, textbooks aim for something different and as long as any source helps you start massive immersion it is good) and sometimes frames herself as <code>the best way</code> to acquire grammar or such click-baity titles on some of her videos, I do not agree with that mindset/presentation of hers and would take it with a grain of salt. Since Dolly uses simple explanations to make it easy to grasp, some stuff she says is simplified and uses it to fit her model, and sometimes she is at least slightly inaccurate/wrong, at least from some of the examples I heard being discussed on the internet and in certain Discords by people who seemed to have some deeper understanding of Japanese though I will not make any conclusions since I am nowhere near to be an authority on anything Japanese-related or to reach such conclusions on my own.
+    ---
 
-If you want to know why check [**this MoeWay Discord discussion**](https://discord.com/channels/617136488840429598/1170582570161950752). **So do not take Dolly as gospel but just as a useful way to attain Japanese basics that push you into immersion = what truly matters.**  
+    Though, keep in mind that Dolly sometimes does get a bit too negative towards textbooks (while some are valid, textbooks aim for something different and as long as any source helps you start massive immersion it is good) and sometimes frames herself as <code>the best way</code> to acquire grammar or such click-baity titles on some of her videos, I do not agree with that mindset/presentation of hers and would take it with a grain of salt. Since Dolly uses simple explanations to make it easy to grasp, some stuff she says is simplified and uses it to fit her model, and sometimes she is at least slightly inaccurate/wrong, at least from some of the examples I heard being discussed on the internet and in certain Discords by people who seemed to have some deeper understanding of Japanese though I will not make any conclusions since I am nowhere near to be an authority on anything Japanese-related or to reach such conclusions on my own.
 
----
+    If you want to know why check [**this MoeWay Discord discussion**](https://discord.com/channels/617136488840429598/1170582570161950752). **So do not take Dolly as gospel but just as a useful way to attain Japanese basics that push you into immersion = what truly matters.**  
 
-My explanations are just my guesses and how I personally understand stuff, but they are definitely not fully accurate either anyway since I am not a linguist or such (at least not yet and not for a LONG time lol), so obviously what I say is also likely not entirely correct and may be wrong/incomplete/simplified (which is why I want to be notified of everything I say wrong if you notice).
+    ---
 
-But if the claims are true and Dolly is indeed wrong in at least some cases/partially, that is still alright mostly since Dolly is here to just introduce the very basics and there it does not matter too much since it can be <code>fixed</code> through immersion. Dolly simply serves to push you into immersing rather than show you full Japanese, full Japanese cannot be learnt, no language can… it can only be acquired through a massive consumption and use of the natural, native language.  
+    My explanations are just my guesses and how I personally understand stuff, but they are definitely not fully accurate either anyway since I am not a linguist or such (at least not yet and not for a LONG time lol), so obviously what I say is also likely not entirely correct and may be wrong/incomplete/simplified (which is why I want to be notified of everything I say wrong if you notice).
 
----
+    But if the claims are true and Dolly is indeed wrong in at least some cases/partially, that is still alright mostly since Dolly is here to just introduce the very basics and there it does not matter too much since it can be <code>fixed</code> through immersion. Dolly simply serves to push you into immersing rather than show you full Japanese, full Japanese cannot be learnt, no language can… it can only be acquired through a massive consumption and use of the natural, native language.  
 
-In linguistics and grammar, things are not simple and so if you want to explain it simply, you must sacrifice some accuracy for the sake of simplification. Just keep in mind that things get more complex as you dive deeper and I would take Dolly as just the basis rather than a 100% correct assessment of Japanese since that probably is not even possible unless you use 100% native-Japanese advanced linguistics sources and even there are differentiating opinions on some stuff, so it all depends on the model / focus.
-:::
+    ---
+
+    In linguistics and grammar, things are not simple and so if you want to explain it simply, you must sacrifice some accuracy for the sake of simplification. Just keep in mind that things get more complex as you dive deeper and I would take Dolly as just the basis rather than a 100% correct assessment of Japanese since that probably is not even possible unless you use 100% native-Japanese advanced linguistics sources and even there are differentiating opinions on some stuff, so it all depends on the model / focus.
+
 
 ## Intro to Conjugation
 
-::: info
-This is what Dolly says in her book <code>Unlocking Japanese</code> about Conjugation, so just keep it in mind:
+!!! info
+    This is what Dolly says in her book <code>Unlocking Japanese</code> about Conjugation, so just keep it in mind:
 
 ![](media/image408.png)
-:::
+
 
 **Apa yang kita lakukan selama ini adalah menempelkan kata kerja bantu sederhana (helper verb) – atau kata sifat bantu (helper adjective) atau kata benda bantu (helper noun) – kepada akar kata kerja.**
 
