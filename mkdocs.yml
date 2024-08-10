@@ -135,7 +135,7 @@ nav:
     - 'Basic Pitch Accent': 'pitch/pitch_basic.md'
     - 'Pitch Accent For Adjectives': 'pitch/pitch_adjective.md'
     - 'Pitch Accent For Verbs': 'pitch/pitch_verbs.md'
-    - 'Pitch Accnet For Nouns': 'pitch/pitch_nouns.md'
+    - 'Pitch Accent For Nouns': 'pitch/pitch_nouns.md'
     - 'Pitch Accent For Suffix': 'pitch/pitch_suffix.md'
 
 theme:
@@ -226,6 +226,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - tables        
 
 extra_javascript:
   - javascripts/extra.js

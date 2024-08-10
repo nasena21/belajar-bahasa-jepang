@@ -39,6 +39,9 @@ https://jisho.hlorenzi.com/
 ## Online Dictionary
 * Jisho
 
+## Conjugator 
+https://www.japaneseverbconjugator.com/
+
 
 ## Pitch Accent
 

@@ -1,0 +1,4 @@
+
+## I-adjectives
+
+## Na-adjectives
