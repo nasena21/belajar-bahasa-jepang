@@ -1,10 +1,10 @@
 ## Heiban Verbs
 
-## Downstep Verbs
+## Non Heiban Verbs
 
-### Atamadaka
+### Atamadaka Verbs
 
 
-### Nakadaka
+### Nakadaka Verbs
 
-### Odaka
+### Odaka Verbs
