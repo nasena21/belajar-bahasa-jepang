@@ -1,6 +1,8 @@
 site_name: Nasena 21
 extra_css:
   - stylesheets/extra.css
+
+
 nav:
   - Home: 'index.md'
   - 'Guides':
@@ -210,6 +212,8 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx      
 copyright: Copyright &copy; 2024 NaSena 21
+
+
 
 markdown_extensions:
   - admonition
