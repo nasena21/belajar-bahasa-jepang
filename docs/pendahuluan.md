@@ -27,10 +27,11 @@ Kalaupun kita tahu cara bacaannya, mencari kata tersebut di kamus tradisional it
 Dengan adanya pop up dictionary, kita bisa mencari cara baca + arti dari suatu kata dalam bahasa Jepang hanya dengan satu kali klik. 
 
 
-<video width="640" height="360" controls>
-  <source src="media/popupdict.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/e2ec09bc-6d4a-4f2f-9b5e-a41beebfeaf0
+
+
 
 
 * SRS Flashcard (Spaced Repetition System)
