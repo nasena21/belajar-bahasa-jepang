@@ -1,34 +1,107 @@
 site_name: Nasena 21
+theme:
+  name: material
+  language: id
+  font:
+    text: Noto Sans Japanese
+    code: Noto Serif Japanese
+
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: blue 
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue 
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+
+  logo: kobo.jpg
+
+  favicon: kobo.jpg
+
+  plugins:  
+    - mkdocs-video
+    - kroki:
+      ServerURL: !ENV [KROKI_SERVER_URL, 'https://kroki.io']
+      FileTypes:
+        - png
+        - svg
+      FileTypeOverrides:
+        mermaid: png
+      FailFast: !ENV CI
+
+  features:
+    - tabs
+    - instant
+    - navigation.footer
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    # - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlighting
+    - search.share
+    - meta
+    - admonition
+    - attr_list
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - pymdownx.details
+    - pymdownx.keys
+    - pymdownx.superfences
+
+
 extra_css:
   - stylesheets/extra.css
 
-
 nav:
   - Home: 'index.md'
-  - 'Guides':
+  - Guides:
     - 'Pendahuluan': 'pendahuluan.md'
     - 'Main Guide': 'main_guide.md'
     - 'Kanji': 'kanji.md'  
     - 'Speaking': 'speaking.md'
-  - 'Mining':  
-    - 'Anki': 'anki.md'
-    - 'Yomitan': 'yomitan.md'
-  - 'Recommendations':
-    - 'Recommendations': 'recommendations.md'
-  - 'Immersion':
-    - 'Anime': 'anime.md'
-    - 'Light Novel': 'light_novel.md'
-    - 'Visual Novel': 'visual_novel.md'
-  - 'Resources':
-    - 'Resources': 'resources.md'
-  - 'Grammar':
-    - 'Grammar': 'grammar/grammar.md'
-    - 'Credit': 'cure-dolly\credit.md'
-    - 'Index': 'cure-dolly\index.md'
-    - 'About': 'cure-dolly\about.md'
-    - 'Original': 'cure-dolly\original.md'
+  - Setup:  
+    - Main:
+      - 'Anki': 'anki.md'
+      - 'Yomitan': 'yomitan.md'
+      - 'ShareX' : 'sharex.md'
+    - Visual Novel:
+      - Visual Novel : visual_novel.md
+    - Light Novel:
+      - Light Novel: light_novel.md
+    - Anime:
+      - Anime: anime.md
+    - Manga:
+      - Manga: manga.md
+  - Recommendations:
+    - Recommendations: 'recommendations.md'
+  - Resources:
+    - Resources: resources.md
+  - Grammar:
+    - Grammar: grammar/grammar.md
+    - Credit: cure-dolly/credit.md
     - 'Basic Sentence Structure and Core Grammar': 
-      - '1. The Basic Types of Sentences': 'cure-dolly/1-the-basic-types-of-sentences.md'
+      - 'cure-dolly\1_part_of_speech.md'
       - '2. The Invisible Carriage and The を Particle': 'cure-dolly/2-the-invisible-carriage-and-the-を-particle.md'
       - '3. The は Particle': 'cure-dolly/3-the-は-particle.md'
       - '4. Japanese Verb Tenses': 'cure-dolly/4-japanese-verb-tenses.md'
@@ -130,9 +203,11 @@ nav:
       - '95. Using Word History the Smart Way: どうも, やっぱり, やはり': 'cure-dolly/95-using-word-history-the-smart-way-どうも-やっぱり-やはり.md'
       - '96. 通り and せっかく: A Metaphorical Road and an Untranslatable Word': 'cure-dolly/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word.md'
       - '97. The Meanings of うち: Home, Self, Social Boundary, Time Marker - いまのうち, そのうち': 'cure-dolly/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち.md'
+  - Grammar Reference:
+    - Cara Pakai: g_ref/cara_pakai.md
+    - Daftar Isi: g_ref/daftar_isi.md
 
-
-  - 'Pitch Accent':
+  - Pitch Accent:
     - 'What is Pitch Accent': 'pitch/pitch_accent.md'
     - 'Basic Pitch Accent': 'pitch/pitch_basic.md'
     - 'Pitch Accent For Adjectives': 'pitch/pitch_adjective.md'
@@ -140,64 +215,11 @@ nav:
     - 'Pitch Accent For Nouns': 'pitch/pitch_nouns.md'
     - 'Pitch Accent For Suffix': 'pitch/pitch_suffix.md'
 
-theme:
-  name: material
 
-  language: id
 
-  font:
-    text: Noto Sans Japanese
-    code: Noto Serif Japanese
+  
 
-  palette:
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: light blue
-      accent: blue 
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue
-      accent: blue 
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
-  features:
-    - tabs
-    - instant
-    - navigation.footer
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.instant.prefetch
-    # - navigation.sections
-    - navigation.expand
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.top
-    - navigation.indexes
-    - search.suggest
-    - search.highlighting
-    - search.share
-    - meta
-    - admonition
-    - attr_list
-    - pymdownx.critic
-    - pymdownx.caret
-    - pymdownx.mark
-    - pymdownx.tilde
-    - pymdownx.details
-    - pymdownx.keys
-    - pymdownx.superfences
-
-  logo: kobo.jpg
-
-  favicon: kobo.jpg
 
 extra:
   social:
