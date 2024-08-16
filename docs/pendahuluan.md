@@ -28,4 +28,9 @@ Dengan adanya pop up dictionary, kita bisa mencari cara baca + arti dari suatu k
 
 * Konten yang berbahasa Jepang okessss
 
+* SRS Flashcard (Spaced Repetition System)
+
+* Konten yang berbahasa Jepang
+
+
 * Grammar Guide
