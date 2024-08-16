@@ -1,0 +1,26 @@
+.ruby {
+    font-size: 1.5em; /* Adjust text size here */
+}
+.rt {
+    font-size: 0.55em; /* Adjust furigana size here */
+}
+
+.custom-text-style {
+  color: #2094f3; /* Text color */
+  background-color: #272a2f; /* Background color */
+  padding: 5px; /* Optional: adds space around the text */
+  border-radius: 3px; /* Optional: rounds the corners of the background */
+}
+
+.admonition.citation {
+  border-left: 4px solid #0044cc; /* Customize color for citation */
+  padding: 10px;
+  background-color: #f0f8ff; /* Customize background color */
+  margin: 10px 0;
+  font-style: italic;
+}
+
+.admonition.citation h1 {
+  font-size: 1.2em;
+  color: #0044cc; /* Customize title color */
+}
