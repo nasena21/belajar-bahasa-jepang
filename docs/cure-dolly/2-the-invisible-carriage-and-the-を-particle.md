@@ -2,7 +2,7 @@
 
 [**Lesson 2: Core Secrets. Japanese made easy - unlocking the <code>code</code>. Learn Japanese from scratch**](https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2&ab_channel=OrganicJapanesewithCureDolly)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pSvH9vH60Ig?si=37M6gKmZ2UDBUHXu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P3n8n0u3LHA?si=p0gb_-ihZSFPJ9-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Invisible Carriage
 

@@ -30,9 +30,9 @@ theme:
         name: Switch to light mode
 
 
-  logo: assets/pp.png
+  logo: assets/apple-touch-icon.png
 
-  favicon: kobo.jpg
+  favicon: assets/favicon.ico
 
   plugins:  
     - search
@@ -51,6 +51,7 @@ theme:
     - navigation.instant.prefetch
     - navigation.sections
     - navigation.expand
+    - navigation.path
     - navigation.tracking
     - navigation.tabs
     - navigation.top

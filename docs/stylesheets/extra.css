@@ -76,3 +76,10 @@
   height: 100%;
   border: 0;
 }
+
+.highlight-primary {
+  background-color: var(--md-primary-color);
+  color: #2094F3; /* Explicitly set text color to white */
+  padding: 0.2em;
+  border-radius: 4px;
+}

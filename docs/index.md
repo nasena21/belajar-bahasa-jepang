@@ -21,3 +21,8 @@ hide:
 
 [Mulai Belajar](guide/main_guide.md){ .md-button .md-button--primary }
 
+This is some text with <span class="highlight-primary">highlighted text</span> 
+
+This is some <span class="highlight-primary">highlighted text</span> with visible color contrast.
+
+This is some text with ==highlighted text==.

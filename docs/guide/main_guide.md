@@ -6,14 +6,14 @@ Di halaman ini, aku akan menampilkan sebuah roadmap yang biasa dilakukan oleh or
 
 ```mermaid
     flowchart TB
-        A[<p style="font-size: 20px;">Belajar Hiragana dan Katakana</p>] --> B[<p style="font-size: 20px;">Menginstall Anki dan Yomitan</p>]
+        A[<p style="font-size: 20px;">Hiragana dan Katakana</p>] --> B[<p style="font-size: 20px;">Anki dan Yomitan</p>]
         B --> C[<p style="font-size: 20px;">Kaishi 1.5K</p>]
-        B -.-|Optional| D[<p style="font-size: 20px;">Menulis Kanji <br>#40;Tulis Tangan#41;</p>]
+        B -.-|Optional| D[<p style="font-size: 20px;">Kanji Kentei</p>]
         B --> E[<p style="font-size: 20px;">Grammar <br> Guide</p>]
         C --> F[<p style="font-size: 20px;">Mengatur Mining Deck</p>]
-        D -.- F[<p style="font-size: 20px;">Mengatur Mining Deck</p>]
-        E --> F[<p style="font-size: 20px;">Mengatur Mining Deck</p>]
-        F --> G[<p style="font-size: 20px;">Immersion dan Sentence Mining</p>]
+        D -.- F[<p style="font-size: 20px;">Immersion</p>]
+        E --> F[<p style="font-size: 20px;">Immersion</p>]
+        F --> G[<p style="font-size: 20px;">Sentence Mining</p>]
         G --> H[<p style="font-size: 20px;">Output</p>]
         H -.-|Optional| J[<p style="font-size: 20px;">Pitch Accent</p>]
         J --> N[<p style="font-size: 20px;">Berbicara</p>]
