@@ -2,9 +2,7 @@
 
 [**Lesson 1: Japanese made easy! What schools never teach. The core Japanese sentence -organic Japanese**](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly)
 
-<div class="video-wrapper">
-  <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&ab_channel=OrganicJapanesewithCureDolly" frameborder="0" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pSvH9vH60Ig?si=37M6gKmZ2UDBUHXu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The most basic thing about Japanese is the Japanese core sentence. Every Japanese sentence fundamentally has the same core. What does it look like? It looks like this.
 

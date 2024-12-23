@@ -2,6 +2,8 @@
 
 [**Lesson 2: Core Secrets. Japanese made easy - unlocking the <code>code</code>. Learn Japanese from scratch**](https://www.youtube.com/watch?v=P3n8n0u3LHA&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=2&ab_channel=OrganicJapanesewithCureDolly)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pSvH9vH60Ig?si=37M6gKmZ2UDBUHXu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## The Invisible Carriage
 
 In the last lesson, we learned that every Japanese sentence has the same core: the main carriage and the engine, also known as A and B, also known as the thing we are talking about and the thing we are saying about it. And I told you that we can have a lot more carriages as sentences become more complex, but they still always have the same core.
