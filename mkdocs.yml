@@ -1,13 +1,16 @@
 site_name: Nasena 21
+site_description: Website yang akan mengajari kalian cara belajar bahasa Jepang yang bnear
+site_url: http://nasena21.github.io/belajar-bahasa-jepang
+
 theme:
   name: material
   language: id
   font:
     text: Noto Sans Japanese
     code: Noto Serif Japanese
+ 
 
   palette:
-
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -27,29 +30,26 @@ theme:
         name: Switch to light mode
 
 
-  logo: kobo.jpg
+  logo: assets/pp.png
 
   favicon: kobo.jpg
 
   plugins:  
-    - mkdocs-video
-    - kroki:
-      ServerURL: !ENV [KROKI_SERVER_URL, 'https://kroki.io']
-      FileTypes:
-        - png
-        - svg
-      FileTypeOverrides:
-        mermaid: png
-      FailFast: !ENV CI
+    - search
+
+    - social:
+        cards_layout: default
+    - tags
 
   features:
+    - content.footnote.tooltips
     - tabs
     - instant
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
     - navigation.instant.prefetch
-    # - navigation.sections
+    - navigation.sections
     - navigation.expand
     - navigation.tracking
     - navigation.tabs
@@ -73,35 +73,29 @@ theme:
 extra_css:
   - stylesheets/extra.css
 
+
 nav:
   - Home: 'index.md'
   - Guides:
-    - 'Pendahuluan': 'pendahuluan.md'
-    - 'Main Guide': 'main_guide.md'
-    - 'Kanji': 'kanji.md'  
-    - 'Speaking': 'speaking.md'
-  - Setup:  
-    - Main:
-      - 'Anki': 'anki.md'
-      - 'Yomitan': 'yomitan.md'
-      - 'ShareX' : 'sharex.md'
-    - Visual Novel:
-      - Visual Novel : visual_novel.md
-    - Light Novel:
-      - Light Novel: light_novel.md
-    - Anime:
-      - Anime: anime.md
-    - Manga:
-      - Manga: manga.md
-  - Recommendations:
-    - Recommendations: 'recommendations.md'
-  - Resources:
-    - Resources: resources.md
+    - 'About Me': 'guide/aboutme.md'
+    - guide/comission.md
+    - guide/pendahuluan.md
+    - guide/main_guide.md
+    - guide/kanji.md
+    - guide/speaking.md
+    - guide/anki.md
+    - guide/yomitan.md
+    - guide/sharex.md
+    - guide/visual_novel.md
+    - guide/light_novel.md
+    - guide/recommendations.md
+    - guide/resources.md
   - Grammar:
-    - Grammar: grammar/grammar.md
-    - Credit: cure-dolly/credit.md
+    - 'Na Sena Grammar':
+      - grammar/1_part_of_speech.md
+      - grammar/grammar.md
     - 'Basic Sentence Structure and Core Grammar': 
-      - 'cure-dolly\1_part_of_speech.md'
+      - 'cure-dolly/1-the-basic-types-of-sentences.md'
       - '2. The Invisible Carriage and The を Particle': 'cure-dolly/2-the-invisible-carriage-and-the-を-particle.md'
       - '3. The は Particle': 'cure-dolly/3-the-は-particle.md'
       - '4. Japanese Verb Tenses': 'cure-dolly/4-japanese-verb-tenses.md'
@@ -203,23 +197,6 @@ nav:
       - '95. Using Word History the Smart Way: どうも, やっぱり, やはり': 'cure-dolly/95-using-word-history-the-smart-way-どうも-やっぱり-やはり.md'
       - '96. 通り and せっかく: A Metaphorical Road and an Untranslatable Word': 'cure-dolly/96-通り-and-せっかく-a-metaphorical-road-and-an-untranslatable-word.md'
       - '97. The Meanings of うち: Home, Self, Social Boundary, Time Marker - いまのうち, そのうち': 'cure-dolly/97-the-meanings-of-うち-home-self-social-boundary-time-marker-いまのうち-そのうち.md'
-  - Grammar Reference:
-    - Cara Pakai: g_ref/cara_pakai.md
-    - Daftar Isi: g_ref/daftar_isi.md
-
-  - Pitch Accent:
-    - 'What is Pitch Accent': 'pitch/pitch_accent.md'
-    - 'Basic Pitch Accent': 'pitch/pitch_basic.md'
-    - 'Pitch Accent For Adjectives': 'pitch/pitch_adjective.md'
-    - 'Pitch Accent For Verbs': 'pitch/pitch_verbs.md'
-    - 'Pitch Accent For Nouns': 'pitch/pitch_nouns.md'
-    - 'Pitch Accent For Suffix': 'pitch/pitch_suffix.md'
-
-
-
-  
-
-
 
 extra:
   social:
@@ -233,12 +210,17 @@ extra:
       link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx
     - icon: fontawesome/brands/youtube
       link: https://youtu.be/dQw4w9WgXcQ?si=hQbmjAm_gtvbX8Fx      
+  tags:
+    Tutorial: tutorial
+    Jepang: jepang    
 copyright: Copyright &copy; 2024 NaSena 21
 
 
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.highlight:
       anchor_linenums: true
@@ -253,6 +235,10 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - tables        
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 extra_javascript:
   - javascripts/extra.js

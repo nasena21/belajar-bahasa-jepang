@@ -107,11 +107,19 @@ Untuk mempelajari kanji, kita harus melakukan langkah yang berikutnya, yaitu Kai
 
 ## Kaishi 1.5K
 
+Kaishi 1.5K adalah sebuah deck yang berisi 1500 kosa kata yang dapat digunakan di dalam Anki untuk mempelajari kosa kata sekaligus kanji.
+
 ## Grammar Guide
+
+Ada banyak sekali sumber untuk belajar bahasa Jepang baik itu yang berbayar maupun yang gratis. Setiap sumber belajar pasti memiliki kelebihan dan kekurangannya jadi pilihlah yang paling cocok untukmu.
 
 ## Immersion 
 
+Di tahap ini merupakan kegiatan utama kita yang akan memberikan hasil paling banyak dalam belajar bahasa Jepang. Kalian hanya perlu mengkonsumsi media Jepang apapun yang kalian suka, baik itu anime, manga, novel, visual novel dan lain-lain selama tingkat kesulitannya tidak terlalu berbeda dari kemampuan bahasa Jepang kalian saat ini. 
+
 ## Sentence Mining
+
+Sentence mining adalah kegiatan yang kalian lakukan ketika menemukan kata yang tidak kalian ketahui dalam kegiatan immersion lalu memasukannya ke dalam Anki Deck kalian.
 
 ## Output
 

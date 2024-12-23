@@ -24,3 +24,37 @@
   font-size: 1.2em;
   color: #0044cc; /* Customize title color */
 }
+
+.framed {
+  width: 300px; /* Make the container square */
+  height: 300px;
+  border-radius: 50%; /* Makes the container circular */
+  overflow: hidden; /* Ensures the image stays within the circle */
+  display: flex; /* Optional: centers the image */
+  align-items: center; /* Optional: centers the image */
+  justify-content: center; /* Optional: centers the image */
+  border: 10px solid #2094F3; 
+}
+
+.framed img {
+  width: 100%; /* Image fills the container */
+  height: 100%; /* Image fills the container */
+  object-fit: cover; /* Ensures proper cropping */
+}
+
+.image-text {
+  display: flex; /* Flexbox layout */
+  align-items: center; /* Align image and text vertically */
+  gap: 20px; /* Space between image and text */
+}
+
+.text {
+  max-width: 600px; /* Limit text width if needed */
+}
+
+.text h3 {
+  font-size: 1.9rem; /* Adjust as needed */
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  color: #ffffff; /* Customize color */
+}

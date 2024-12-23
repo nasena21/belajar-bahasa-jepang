@@ -1,66 +1,76 @@
-# **41. 5 Fakta Penting Tentang Struktur Dasar Bahasa Jepang**
+# **41. 5 key facts about the basic structure of Japanese**
 
 [**5 key facts they never tell you about the basic structure of Japanese. Lesson 41**](https://www.youtube.com/watch?v=8AXyP5GeJFg&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=43&pp=iAQB)
 
 こんにちは。
 
-Hari ini kita akan berbicara tentang sesuatu yang sangat penting yang dapat mempengaruhi ke seluruh struktur bahasa Jepang.
+Today we're going to talk about
 
-Dan percaya atau tidak, buku teks bahasa Jepang tidak pernah menjelaskan ini dengan tepat.
+something very important that affects the whole structure of Japanese.
 
-Kita akan membicarakan tentang kata dalam bahasa Jepang.
+And, surprise, surprise, the textbooks never explain this properly.
 
-Bukan kosakata, tapi sifat sebenarnya dari kata itu sendiri dan bagaimana kata itu bekerja secara struktural di dalam bahasa Jepang. 
+What we're going to talk about is Japanese words.
 
-Hal ini tidak sulit. Justru sebaliknya, ini sangat sederhana.
+Not vocabulary, but the actual nature of the words themselves and
 
-Tapi kalau kamu tidak tahu, hal ini akan sangat membingungkan karena kamu melihat suatu kalimat dan kamu tidak tahu apa yang dilakukan oleh kata-kata di dalam sebuah kalimat.
+how they structurally work inside the language.
 
-Dan ini situasi yang sering terjadi setelah membaca buku teks bahasa Jepang.
+This isn't difficult. In fact, it's very simple.
 
-Faktanya bahasa Jepang itu lebih sederhana dibandingkan bahasa Inggris dan lebih sederhana dibandingkan kebanyakan bahasa dalam tipe-tipe kata yang dimilikinya.
+But if you don't know it, it's very confusing because you actually see a sentence and
 
-Tetapi, buku teks bahasa Jepang dan kamus bahasa Jepang (yang dibuat dalam bahasa Inggris) mencoba untuk menyamakan tipe-tipe kata dalam Bahasa Jepang ke tipe-tipe kata dalam bahasa Inggris dan tentu saja hal ini tidak berjalan dengan baik dan sering mengakibatkan kebingungan.
+you don't know what the words are really doing inside that sentence.
 
-Jadi hari ini, aku akan memberikan 5 fakta yang akan menghapuskan kebingungan itu.
+And this is the position that the textbooks leave you in.
 
+Now, the fact is that Japanese is much simpler than English and much simpler than most languages in the types of words that it has.
 
-## Fakta no 1
+However, the English textbooks and dictionaries try to assimilate Japanese words to the various English types and this doesn't work well at all and leads to endless confusion.
 
-Fakta no 1:  Hampir semua kata dalam bahasa Jepang terbagi ke dalam tiga kategori. Hanya tiga.
+So I'm going to present five facts that will clarify the whole situation.
 
-Dan ketiganya dalah : `Kata Benda (名詞)` , `Kata Kerja (動詞)`, dan `Kata Sifat (形容詞)`
+## Fact 1
 
-Selain itu ada juga yang namanya `Partikel` -- mereka bukan kata, tapi mereka adalah mur dan baut yang menyatukan bahasa Jepang.
+Fact 1: Nearly all Japanese words fall into one of three categories. Just three.
 
-dan ada beberapa -- BEBERAPA -- kata khusus yang tidak termasuk ke dalam tiga kategori diatas.
+And those three categories are: Nouns, Verbs, and Adjectives.
+
+Now, there are also, as we know, particles – they're not words,
+
+but they are the nuts and bolts that hold the language together.
+
+And there are a few -- a very few -- specialized words that don't fall into those three categories.
 
 ![](media/image529.png)
 
-Contoh, ada `Kata Penghubung (接続詞)` yang menggabukan dua klausa menjadi kalimat majemuk.
+For example, there are conjunction words that join together two logical clauses to make a compound sentence.
 
-Kebanyakan `kata penghubung` tidak berakhiran dengan kata -- mereka berakhiran dengan て-form, い-stem atau kelompok partikel seperti <code>でも</code> and <code>のに</code>.
+Most conjunctions aren't done with words anyway -- they're done with the て-form, the い-stem, or groups of particles like <code>でも</code> and <code>のに</code>.
 
-Tetapi ada beberapa `kata penghubung` khusus seperti <code>けど</code> dan <code>が</code>,
+But there are a few dedicated conjunctions like <code>けど</code> and the other <code>が</code>,
 
-<code>が</code> dalam konteks ini <code>が</code> bukan partikel tapi `kata penghubung` , yang sudah kita bahas di materi sebelumnya.
+the <code>が</code> that isn't a particle but a conjunction, which we discussed in a recent video.
 
-Selain dari hal itu, semua yang kalian lihat adalah salah satu dari ketiga kata ini `Kata Benda (名詞)` , `Kata Kerja (動詞)`, dan `Kata Sifat (形容詞)`.
+Now, apart from these, everything you see is going to be a noun, a verb, or an adjective.
 
+## Fact 2
 
-## Fakta no 2
-
-Fakta no 2:  `Kata Kerja (動詞)`, dan `Kata Sifat (形容詞)` sangat mudah diidentifikasi dan dibedakan.
+Fact 2: Verbs and adjectives are very easily recognized and distinguished.
 
 ![](media/image858.png)
 
-Semua `kata kerja` selalu berakhiran dengan kana barisan う dan harus ditulis dalam kana, tidak boleh ditulis dalam kanji.
+Every verb ends in an -う row kana -- and it has to be a kana, it can't be included in kanji.
 
-Lalu semua `kata sifat` selalu berakhiran dengan kana い. Sekali lagi, harus berakhir dengan kana, tidak boleh ditulis dalam kanji. 
+And every adjective has to end in the kana い.
 
-Seperti yang kita tahu, ada perubahan yang sepenuhnya teratur yang bisa dilakukan oleh kana barisan う dan kana い. 
+Again, it has to be the kana, can't be part of a kanji.
 
-Mereka bisa berubah menjadi て-form atau た-form, dan akhiran kana barisan う bisa berubah menjadi kana lainnya yang berada di posisi yang sama untuk memasangkan kata bantu seperti kata sifat bantu negatif <code>ない</code> atau kata kerja bantu kausatif <code>せる/させる</code>.
+Now, as we know, there are certain completely regular transformations
+
+that this -う row kana and that this い can make.
+
+They can go into て-form or た-form, and the final -う row kana of a verb can change into the equivalent kana in the same row in order to attach a helper word such as the negative helper adjective <code>ない</code> or the causative helper verb <code>せる/させる</code>.
 
 ![](media/image1009.png)
 

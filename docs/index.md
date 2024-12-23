@@ -1,20 +1,23 @@
-# Welcome to MkDocs
+---
+hide:
+  - footer
+  - toc
+  - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+#Learn How To Learn Japanese
 
-## Commands
+<div class="image-text">
+  <div class="framed">
+    <img src="assets/pp.png" alt="Circular Image">
+  </div>
+</div>
+<div>
+  <div class="text">
+    <h3>NA SENA / ナ・世那</h3>
+    <p>Aku akan memberi tahu kalian cara belajar bahasa Jepang yang efektif agar kalian tidak membuang-buang waktu kalian dengan percuma.</p>
+  </div>
+</div>
 
-<span class="custom-text-style">This is some text with custom styling!</span>
+[Mulai Belajar](guide/main_guide.md){ .md-button .md-button--primary }
 
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

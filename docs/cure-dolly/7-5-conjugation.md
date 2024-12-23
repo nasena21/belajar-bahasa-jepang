@@ -2,81 +2,76 @@
 
 [**Japanese conjugation made easy! The super-simple key to all conjugations.**](https://www.youtube.com/watch?v=FhyrskGBKHE&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj&index=8)
 
-Hari ini kita akan membicarakan tentang Konjugasi bahasa Jepang.
+Today we are going to talk about Japanese conjugation.
 
-Konjugasi yang mana? Semuanya. Kecuali untuk た dan て form, yang akan kita bahas di video lainnya. *(Lesson 81)*.
+Which particular conjugation?, you may ask. Well, all of them. Except for the た and て form, which we will discuss in a different video *(Lesson 81)*.
 
-Kenapa kita harus mempelajari semuanya sekaligus? Karena kita bisa. Karena semua Konjugasi bahasa Jepang bekerja dengan cara yang sama. Mereka simple, sangat logis, dan konsisten, dan sangat-sangat mudah dipahami.
+Why are we dealing with them all at once? Because we can. Because Japanese conjugation all works the same way. It's very simple, very logical and very consistent, and very very easy to understand.
 
-Tapi, ketika kita melihat di buku pelajaran Bahasa Jepang, kita sering menduga kalau mereka punya banyak aturan dan bentuk-bentuk yang banyak dan kita harus memepalari satu-persatu untuk setiap konjugasinya. 
+However, when we look in the textbook, we get the impression of lots of different rules and forms that you have to learn for each particular conjugation. Why is that? Why do the textbooks make it seem so complicated when it's actually so very simple?
 
-Kenapa sih?
+Two reasons. The first is that they insist on this **European concept** of conjugation. Actually, what we are doing is not conjugation at all.
 
-Kenapa buku pelajaran Bahasa Jepang membuatnya terlihat sangat rumit padahal sebenarnya sangat sederhana?
+::: info
+*If you truly love reading, there's a VERY long, [**interesting discussion**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) about this under Lesson 13, so it depends on you how you refer to it, calling it conjugation is okay, especially when it is called as such mostly so at least familiarise yourself with it.*
+:::
 
-Ada dua alasan. Yang pertama mereka bersikeras pada **Konsep Eropa** tentang konjugasi. Sebenarnya yang mereka lakukan bukanlah konjugasi sama sekali
+::: details Just one of my rambling terminology notes and some other ramblings… (click on the arrow to expand)
+Linguistically it could be argued that there indeed is something like conjugation in Japanese, but it seems to be quite unlike European languages, which is likely why Dolly avoids it, so as not to make us interpret it like that and be confused. As to why most sources call it conjugation.
 
+Again, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, just like Adjectival Nouns are basically nouns, BUT not proper nouns (though that is just 1 model out of many).  
+This is to just show that there are multiple ways of looking at things and it is not strictly black n' white, it is a model, and since you cannot explain everything at once, you simplify some things.
 
-!!! info
-    *Kalau kamu suka membaca, ada [**diskusi menarik**](https://www.youtube.com/watch?v=cvV6d-RETs8&lc=UgzXdC7vyB-XKN543tt4AaABAg) yang sangat panjang  tentang ini di pelajaran 13, jadi ini tergantung bagaimana pandanganmu tentang hal itu, kalian mau menyebutnya konjugasi juga tidak masalah, terutama ketika kebanyakan orang menamainya seperti itu, jadi setidaknya buat diri kalian familiar dengan konsep itu.
+---
 
+Though, keep in mind that Dolly sometimes does get a bit too negative towards textbooks (while some are valid, textbooks aim for something different and as long as any source helps you start massive immersion it is good) and sometimes frames herself as <code>the best way</code> to acquire grammar or such click-baity titles on some of her videos, I do not agree with that mindset/presentation of hers and would take it with a grain of salt. Since Dolly uses simple explanations to make it easy to grasp, some stuff she says is simplified and uses it to fit her model, and sometimes she is at least slightly inaccurate/wrong, at least from some of the examples I heard being discussed on the internet and in certain Discords by people who seemed to have some deeper understanding of Japanese though I will not make any conclusions since I am nowhere near to be an authority on anything Japanese-related or to reach such conclusions on my own.
 
-??? Note "details Just one of my rambling terminology notes and some other ramblings… (click on the arrow to expand)"
-    Linguistically it could be argued that there indeed is something like conjugation in Japanese, but it seems to be quite unlike European languages, which is likely why Dolly avoids it, so as not to make us interpret it like that and be confused. As to why most sources call it conjugation.
+If you want to know why check [**this MoeWay Discord discussion**](https://discord.com/channels/617136488840429598/1170582570161950752). **So do not take Dolly as gospel but just as a useful way to attain Japanese basics that push you into immersion = what truly matters.**  
 
-    Again, take this not as a definitive statement, it is just to dodge some associations that come from the word <code>conjugation</code> in terms of European languages, since there is a form of conjugation in Japanese, just like Adjectival Nouns are basically nouns, BUT not proper nouns (though that is just 1 model out of many).  
-    This is to just show that there are multiple ways of looking at things and it is not strictly black n' white, it is a model, and since you cannot explain everything at once, you simplify some things.
+---
 
-    ---
+My explanations are just my guesses and how I personally understand stuff, but they are definitely not fully accurate either anyway since I am not a linguist or such (at least not yet and not for a LONG time lol), so obviously what I say is also likely not entirely correct and may be wrong/incomplete/simplified (which is why I want to be notified of everything I say wrong if you notice).
 
-    Though, keep in mind that Dolly sometimes does get a bit too negative towards textbooks (while some are valid, textbooks aim for something different and as long as any source helps you start massive immersion it is good) and sometimes frames herself as <code>the best way</code> to acquire grammar or such click-baity titles on some of her videos, I do not agree with that mindset/presentation of hers and would take it with a grain of salt. Since Dolly uses simple explanations to make it easy to grasp, some stuff she says is simplified and uses it to fit her model, and sometimes she is at least slightly inaccurate/wrong, at least from some of the examples I heard being discussed on the internet and in certain Discords by people who seemed to have some deeper understanding of Japanese though I will not make any conclusions since I am nowhere near to be an authority on anything Japanese-related or to reach such conclusions on my own.
+But if the claims are true and Dolly is indeed wrong in at least some cases/partially, that is still alright mostly since Dolly is here to just introduce the very basics and there it does not matter too much since it can be <code>fixed</code> through immersion. Dolly simply serves to push you into immersing rather than show you full Japanese, full Japanese cannot be learnt, no language can… it can only be acquired through a massive consumption and use of the natural, native language.  
 
-    If you want to know why check [**this MoeWay Discord discussion**](https://discord.com/channels/617136488840429598/1170582570161950752). **So do not take Dolly as gospel but just as a useful way to attain Japanese basics that push you into immersion = what truly matters.**  
+---
 
-    ---
-
-    My explanations are just my guesses and how I personally understand stuff, but they are definitely not fully accurate either anyway since I am not a linguist or such (at least not yet and not for a LONG time lol), so obviously what I say is also likely not entirely correct and may be wrong/incomplete/simplified (which is why I want to be notified of everything I say wrong if you notice).
-
-    But if the claims are true and Dolly is indeed wrong in at least some cases/partially, that is still alright mostly since Dolly is here to just introduce the very basics and there it does not matter too much since it can be <code>fixed</code> through immersion. Dolly simply serves to push you into immersing rather than show you full Japanese, full Japanese cannot be learnt, no language can… it can only be acquired through a massive consumption and use of the natural, native language.  
-
-    ---
-
-    In linguistics and grammar, things are not simple and so if you want to explain it simply, you must sacrifice some accuracy for the sake of simplification. Just keep in mind that things get more complex as you dive deeper and I would take Dolly as just the basis rather than a 100% correct assessment of Japanese since that probably is not even possible unless you use 100% native-Japanese advanced linguistics sources and even there are differentiating opinions on some stuff, so it all depends on the model / focus.
-
+In linguistics and grammar, things are not simple and so if you want to explain it simply, you must sacrifice some accuracy for the sake of simplification. Just keep in mind that things get more complex as you dive deeper and I would take Dolly as just the basis rather than a 100% correct assessment of Japanese since that probably is not even possible unless you use 100% native-Japanese advanced linguistics sources and even there are differentiating opinions on some stuff, so it all depends on the model / focus.
+:::
 
 ## Intro to Conjugation
 
-!!! info
-    This is what Dolly says in her book <code>Unlocking Japanese</code> about Conjugation, so just keep it in mind:
+::: info
+This is what Dolly says in her book <code>Unlocking Japanese</code> about Conjugation, so just keep it in mind:
 
 ![](media/image408.png)
+:::
 
+**What we are doing all the time is attaching a simple helper verb – or helper adjective or helper noun – to the stems of the verb.**
 
-**Apa yang kita lakukan selama ini adalah menempelkan kata kerja bantu sederhana (helper verb) – atau kata sifat bantu (helper adjective) atau kata benda bantu (helper noun) – kepada akar kata kerja.**
+And once we see how that works, it becomes very, very simple and easy to understand.
 
-dan ketika kita melihat bagaimana mereka bekerja, konjugasi akan jadi hal yang sangat sederhana dan mudah untuk dipahami.
+The other problem is that they spend a lot of time explaining the changes that take place in terms of the Roman sound system – the alphabet. But in fact that causes a lot of confusion and difficulty.
 
-Masalah lainnya adalah mereka menghabiskan banyak waktu untuk menjelaskan konjugasi menggunakan sistem suara alfabet romawi. Padahal faktanya hal itu menyebabkan banyak kebingungan dan kesulitan.
+**Once we see it in the terms it actually exists in, that is to say, the \*Japanese\* sound system, it all becomes very logical.**
 
-**Ketika kita melihatnya dalam istilah yang benar-benar ada, dengan kata lain sistem suara \*Japanese\*, semuanya menjadi sangat logis**
+I would say it is a 100% consistent, logical and simple – except there is one exception in the whole system, and there are two irregular verbs, so perhaps we had better say 99.9% logical, consistent and easy to understand.
 
-Aku berani bilang kalau konjugasi 100% konsisten, logis dan sederhana - kecuali ada satu pengecualian di keseluruhan sistem ini, dan ada dua kata kerja tidak beraturan (irregular verbs), jadi mungkin lebih baik kalau kita menyebutnya 99.9% logis, konsisten, dan mudah dipahami.
-
-Baiklah. Aku akan menunjukkan semuanya pada kalian bagaimana Konjugasi bekerja.
+All right. So, let's give you the master chart, which will show you how all of this works.
 
 チャートをください!
 
-Baik, disini ada tabel hiragana yang biasa kalian lihat.
+So, here is the familiar Japanese kana chart, with all the sounds of Japanese.
 
 ![](media/image321.png)
 
-Semua kata kerja di bahasa Jepang berakhir dengan kana yang ada di barisan yang ada di tengah. Itu adalah barisan ～う, – う, く, す, つ, ぬ dan seterusnya.
+I've turned it on its side, for reasons which will become apparent shortly. All Japanese verbs end with one of the kana in the middle row – it looks like a column because I've turned it on its side. That is the う-row – う, く, す, つ, ぬ etc.
 
-Tapi, tiadak ada kata kerja yang berakhiran dengan ゆ dan を, jadi kita bisa menghilangkan dua kolom dan menyederhanakan tabelnya. 
+However, there is no verb ending in ゆ, so we can get rid of these two columns and simplify the chart.
 
 ![](media/image263.png)
 
-Sebenarnya, hanya ada satu kata kerja yang berakhiran dengan ぬ - dan itu adalah しぬ (mati) - jadi kita bisa menghilangkannya juga dan membuat tabelnya lebih sederhana, tapi aku akan tetap membiarkannya untuk melengkapi tabelnya.
+Actually, there is only one verb that ends in ぬ – that's しぬ, to die – so we could get rid of that too and make it look even simpler, but I'm keeping it in for completeness.
 
 So, **every verb ends with one of the kana in the red box.** Let's have an example of each of the possible endings:  
 かう, buy; きく, hear; はなす, speak; もつ, hold; しぬ, die; とぶ, fly; のむ, drink; とる, take.
