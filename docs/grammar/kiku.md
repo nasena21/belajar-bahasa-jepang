@@ -14,11 +14,9 @@ Meskipun terlihat sama, tapi sebenarnya kedua kanji tersebut memiliki perbedaan 
 
 Jadi perbedaannya adalah dari niatnya, kalau 聴く orang secara proaktif mendengarkan suara dan mendekatkan dirinya ke sumber suara, sementara 聞く adalah ketika suara memasuki telinga.
 
-
 Jadi「聞く」dapat digunakan untuk mendengar secara umum jadi bisa digunakan dalam situasi apa saja.
 
 Sementara 「聴く」 digunakan ketika seseorang mendengarkan sesuatu dengan serius, ataupun ketika seseorang mendengarkan sesuatu sambil mendekatkan telinganya ke sumber suara. 
-
 
 Karena itulah listening section di JLPT itu ditulis dengan kanji seperti ini <ruby>聴解<rt>ちょうかい</rt></ruby>
 
