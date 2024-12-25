@@ -4,7 +4,9 @@
 
 こんにちは。
 
-Welcome to Lesson 3. Some of you who have done some Japanese already may be wondering how I've managed to get through two entire lessons without using or even mentioning the は *(always read as wa)* particle. I'm well aware that most courses start you on は from the beginning. <code>わたしはアメリカ人だ</code> <code>ペンはあおい.</code> And this is really a very very bad idea because it leaves you completely unclear about what the particles really do and about the logical structure of sentences.
+Welcome to Lesson 3. 
+
+Some of you who have done some Japanese already may be wondering how I've managed to get through two entire lessons without using or even mentioning the は *(always read as wa)* particle. I'm well aware that most courses start you on は from the beginning. <code>わたしはアメリカ人だ</code> <code>ペンはあおい.</code> And this is really a very very bad idea because it leaves you completely unclear about what the particles really do and about the logical structure of sentences.
 
 However, we're now ready to look at the は particle and find out what it does and, just as important, what it doesn't do. **The は particle can never be a part of the core sentence. It can never be one of the black carriages**, **the main car A** (the thing we are saying something about) **or the engine B** (the thing we are saying about it).
 
@@ -28,7 +30,7 @@ So, <code>わたし/私は</code> means <code>as for me</code>. <code>アメリ�
 
 ![](media/image487.png)
 
-<code>私は(**zeroが)**アメリカ人だ</code> – <code>As for me, (**I)** am an American.</code>
+<code>私は(zeroが)アメリカ人だ</code> – <code>As for me, (I) am an American.</code>
 
 Now, some of you may be saying, "Isn't it over-complicated? Can't we just pretend that **わたしは** is the main car of the sentence?" And the answer to that is <code>**No**</code>. Because although it works in this case and some other cases, it doesn't work in every case and that is why we really mustn't do it.
 
@@ -40,7 +42,7 @@ As we know, the default value of the invisible car, the zero pronoun, is <code>�
 
 ---
 
-In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>私/わたし</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは(**zeroが)**うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
+In <code>わたしはアメリカ人だ</code> (<code>As for me, I am an American</code>) the value of the zero pronoun is indeed <code>私/わたし</code>. But in <code>わたしはうなぎだ</code>, which is <code>わたしは(zeroが)うなぎだ</code>, zero is not <code>私</code>. Zero is <code>it</code>. <code>It</code> is the thing we are talking about, the subject of the conversation: what we are eating for dinner.
 
 ![](media/image377.png)
 
@@ -70,11 +72,11 @@ If I say, <code>ボールがわたしにさくらをなげる</code>, I'm saying
 
 ![](media/image864.png)
 
-**We can say whatever we like in Japanese so long as we have the logic of the particles correct.** But now let's introduce は into this sentence: <code>わたし**は**さくらにボールをなげる.</code> This is <code>わたし**は**(zeroが)さくらにボールをなげる</code>. As we know, what it means is <code>As for me, I throw the ball at Sakura</code>.
+**We can say whatever we like in Japanese so long as we have the logic of the particles correct.** But now let's introduce は into this sentence: <code>わたしはさくらにボールをなげる.</code> This is <code>わたしは(zeroが)さくらにボールをなげる</code>. As we know, what it means is <code>As for me, I throw the ball at Sakura</code>.
 
 ![](media/image106.png)
 
-Now let's give the は to the ball: <code>ボールは私がさくらに**(zeroを)**なげる</code>. What we are saying now is <code>As for the ball, I throw it at Sakura</code>.
+Now let's give the は to the ball: <code>ボールは私がさくらに(zeroを)なげる</code>. What we are saying now is <code>As for the ball, I throw it at Sakura</code>.
 
 ![](media/image877.png)
 

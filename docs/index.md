@@ -25,4 +25,15 @@ This is some text with <span class="highlight-primary">highlighted text</span>
 
 This is some <span class="highlight-primary">highlighted text</span> with visible color contrast.
 
-This is some text with ==highlighted text==.
+This is some text with **highlighted text**
+
+Press ++Ctrl++ + ++Alt++ + ++Del++ to restart.
+
+
+[`.icons`]
+
+`.icons`
+
+:fa:`icon-name`
+
+`Benar`{.highlighted-text}

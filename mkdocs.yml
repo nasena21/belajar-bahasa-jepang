@@ -36,10 +36,11 @@ theme:
 
   plugins:  
     - search
-
+    - kroki
     - social:
         cards_layout: default
     - tags
+    - glightbox
 
   features:
     - content.footnote.tooltips
@@ -73,7 +74,7 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
-
+  - overrides/custom.css
 
 nav:
   - Home: 'index.md'
@@ -95,6 +96,8 @@ nav:
     - 'Na Sena Grammar':
       - grammar/1_part_of_speech.md
       - grammar/grammar.md
+    - 'Info Penting Gak Penting':
+      - '1. Perbedaan antara 聞く dan 聴く': grammar/kiku.md
     - 'Basic Sentence Structure and Core Grammar': 
       - 'cure-dolly/1-the-basic-types-of-sentences.md'
       - '2. The Invisible Carriage and The を Particle': 'cure-dolly/2-the-invisible-carriage-and-the-を-particle.md'
@@ -223,13 +226,20 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.details
+  - pymdownx.betterem:
+      smart_enable: all
   - pymdownx.highlight:
+      linenums_style: pymdownx-inline
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid

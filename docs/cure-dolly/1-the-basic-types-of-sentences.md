@@ -24,7 +24,7 @@ In Japanese, if we want to say <code>Sakura walks</code> (A does B: Sakura walks
 
 Walk in Japanese is <code>あるく</code>. We need one more thing to make the core Japanese sentence, and **that is the linchpin of every sentence, が** (ga). 
 
-**が is the center of Japanese grammar. Every Japanese sentence revolves around が. In some sentences we're not going to be able to see the が, but it's always there, and it's always doing the same job. It links together A and B and turns them into a sentence.** So, our core <code>A does B</code> sentence is <code>**さくらが**あるく</code> = <code>**Sakura** walks</code>.
+**が is the center of Japanese grammar. Every Japanese sentence revolves around が. In some sentences we're not going to be able to see the が, but it's always there, and it's always doing the same job. It links together A and B and turns them into a sentence.** So, our core <code>A does B</code> sentence is <code>**さくら**</code><code>があるく</code> = <code>**Sakura** walks</code>.
 
 ## Copula sentences
 

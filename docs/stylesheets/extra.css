@@ -1,3 +1,4 @@
+
 .ruby {
     font-size: 1.5em; /* Adjust text size here */
 }
@@ -82,4 +83,15 @@
   color: #2094F3; /* Explicitly set text color to white */
   padding: 0.2em;
   border-radius: 4px;
+}
+
+.md-typeset code {
+  background-color: var(--md-code-bg-color);
+  color: #2094F3;
+  border-radius: .1rem;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: 0 .2941176471em;
+  font-size: 1em;
+  word-break: break-word;
 }
