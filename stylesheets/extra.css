@@ -1,0 +1,97 @@
+
+.ruby {
+    font-size: 1.5em; /* Adjust text size here */
+}
+.rt {
+    font-size: 0.55em; /* Adjust furigana size here */
+}
+
+.custom-text-style {
+  color: #2094f3; /* Text color */
+  background-color: #272a2f; /* Background color */
+  padding: 5px; /* Optional: adds space around the text */
+  border-radius: 3px; /* Optional: rounds the corners of the background */
+}
+
+.admonition.citation {
+  border-left: 4px solid #0044cc; /* Customize color for citation */
+  padding: 10px;
+  background-color: #f0f8ff; /* Customize background color */
+  margin: 10px 0;
+  font-style: italic;
+}
+
+.admonition.citation h1 {
+  font-size: 1.2em;
+  color: #0044cc; /* Customize title color */
+}
+
+.framed {
+  width: 300px; /* Make the container square */
+  height: 300px;
+  border-radius: 50%; /* Makes the container circular */
+  overflow: hidden; /* Ensures the image stays within the circle */
+  display: flex; /* Optional: centers the image */
+  align-items: center; /* Optional: centers the image */
+  justify-content: center; /* Optional: centers the image */
+  border: 10px solid #2094F3; 
+}
+
+.framed img {
+  width: 100%; /* Image fills the container */
+  height: 100%; /* Image fills the container */
+  object-fit: cover; /* Ensures proper cropping */
+}
+
+.image-text {
+  display: flex; /* Flexbox layout */
+  align-items: center; /* Align image and text vertically */
+  gap: 20px; /* Space between image and text */
+}
+
+.text {
+  max-width: 600px; /* Limit text width if needed */
+}
+
+.text h3 {
+  font-size: 1.9rem; /* Adjust as needed */
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  color: #ffffff; /* Customize color */
+}
+
+.video-wrapper {
+  position: relative;
+  display: block;
+  height: 0;
+  padding: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+}
+.video-wrapper > iframe {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.highlight-primary {
+  background-color: var(--md-primary-color);
+  color: #2094F3; /* Explicitly set text color to white */
+  padding: 0.2em;
+  border-radius: 4px;
+}
+
+.md-typeset code {
+  background-color: var(--md-code-bg-color);
+  color: #2094F3;
+  border-radius: .1rem;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: 0 .2941176471em;
+  font-size: 1em;
+  word-break: break-word;
+}
